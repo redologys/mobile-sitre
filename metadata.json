@@ -1,0 +1,7 @@
+{
+  "name": "Mobile Experts Brooklyn",
+  "description": "Premium tech repair and digital service hub in Brooklyn, offering high-precision mobile repairs, global money transfers, and professional device diagnostics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
